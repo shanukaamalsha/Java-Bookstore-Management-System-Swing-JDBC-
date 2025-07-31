@@ -2,9 +2,16 @@
 
 A complete Java-based desktop application for managing bookstore operations, built using **Java Swing**, **MySQL**, and **JDBC**. Designed for two user roles—**Manager** and **Cashier**—this system streamlines book inventory, categorization, and staff management. The project emphasizes modular design using **Object-Oriented Programming (OOP)** and **UML-based planning**.
 
-<img src="https://i.postimg.cc/T29YsB0p/image.png" alt="Login Screen" width="600 style="display: block; margin: 0 auto;"/>
-<img src="https://i.postimg.cc/K89TyR53/image.png" alt="Login Screen" width="600 style="display: block; margin: 0 auto;"/>
-<img src="https://i.postimg.cc/jdxCdR2H/image.png" alt="Login Screen" width="600 style="display: block; margin: 0 auto;"/>
+---
+<div style="text-align: center;">
+  <img src="https://i.postimg.cc/T29YsB0p/image.png" alt="Book List" width="600" />
+</div>
+<div style="text-align: center;">
+  <img src="https://i.postimg.cc/K89TyR53/image.png" alt="Book List" width="600" />
+</div>
+<div style="text-align: center;">
+  <img src="https://i.postimg.cc/jdxCdR2H/image.png" alt="Book List" width="600" />
+</div>
 ---
 
 ## 🚀 Features
