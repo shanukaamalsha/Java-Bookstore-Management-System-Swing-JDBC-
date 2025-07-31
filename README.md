@@ -102,3 +102,9 @@ All functions include:
 
 > This project includes a detailed User manual to guide the users through the system in the attached project report inside the `Report/` folder (or download the full PDF report).
 
+## Stay Connected
+
+- 🌐 **Infosphere Site:** https://infosphere-nexus.netlify.app/ 
+- 👤 **Facebook:** https://www.facebook.com/share/1C55BHgCG7/
+- ▶️ **YouTube Channel:** https://www.youtube.com/@infosphere_nexus
+
