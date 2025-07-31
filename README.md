@@ -12,7 +12,6 @@ A complete Java-based desktop application for managing bookstore operations, bui
   <p align="center">
   <img src="https://i.postimg.cc/jdxCdR2H/image.png" alt="LBHBMS" width="800"/>
   </p>
----
 
 ## 🚀 Features
 
